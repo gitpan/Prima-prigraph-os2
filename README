@@ -1,0 +1,20 @@
+PRIGRAPH.DLL for os2
+----------------------
+
+This binary is compiled prigraph library for gcc/os2 .
+
+LINKING
+-------
+
+Copy PRIGRAPH.LIB into your LIBPATH.
+
+INSTALLATION
+------------
+
+Copy PRIGRAPH.DLL and PRIZ.DLL into your PATH
+
+INFO
+----
+Source available at http://prima.eu.org/download/libprigraph.zip
+
+Dmitry Karasik, January 2004
